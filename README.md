@@ -1,2 +1,2 @@
 # SecondRepo
-This is a second test repository
+Includes MERN Stack exercises
